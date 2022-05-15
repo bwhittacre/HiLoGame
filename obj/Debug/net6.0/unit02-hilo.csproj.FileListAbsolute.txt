@@ -1,0 +1,15 @@
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.csproj.AssemblyReference.cache
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.AssemblyInfoInputs.cache
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.AssemblyInfo.cs
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.exe
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.deps.json
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.runtimeconfig.json
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.dll
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.pdb
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.dll
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\refint\unit02-hilo.dll
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.pdb
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.genruntimeconfig.cache
+C:\Program Files (x86)\C# Files\CSE 210 Developer\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\ref\unit02-hilo.dll
