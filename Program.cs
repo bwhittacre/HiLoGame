@@ -1,4 +1,5 @@
 ﻿using System;
+using unit02_hilo.GameCalculations;
 
 namespace unit02_hilo
 {
@@ -12,7 +13,8 @@ namespace unit02_hilo
             //generated number was actually as they predicted. In the case of it being correct, the program adds 100 points to the total
             // score, and then asks again. In the case of it being wrong, the program deducts 75 points from the score instead. The user
             //may reroll as many times as they would like, until they press "n" at the prompt, or until their point total goes to 0.
-            GameInfo gaming = new GameInfo();
+            unit02_hilo.GameCalculations.GameInfo gaming = new GameInfo();
+            unit02_hilo.GameCalculations.NumberMagic numbers = new NumberMagic();
 
             while (GameInfo.playing == true && GameInfo.startingScore > 0)
             {
@@ -95,27 +97,5 @@ namespace unit02_hilo
             }
         }
 
-            public class GameInfo
-            {
-                //This is the class that holds the deciding variables to determine if the game is able to be played or not.
-                //Here we have the boolean playing, and the score, that if it drops to 0, will also inhibit the game from 
-                //continuing.
-                public static bool playing = true;
-                public static int startingScore = 300;
-            }
-            public class NumberMagic
-            {
-                //This class holds all the necessary parts to get a random number between 1 and 13. It uses an array, as well
-                //as the random modifier to select one of the options out of that array. It is reused multiple times in the 
-                //program to generate a random number.
-            public static int[] cardNumbers = new int[]{1,2,3,4,5,6,7,8,9,10,11,12,13};
-            public static int getNumber()
-            {
-                //Here is the actual random choice generator, which pulls from the cardNumbers field to select a card.
-                Random rnd = new Random();
-                int newNumber = rnd.Next(cardNumbers.Length);
-                return newNumber;
-            }
-            }
     }
 }
